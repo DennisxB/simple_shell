@@ -32,5 +32,4 @@ Simple shell 0.4 +
 Implement the env built-in, that prints the current environment
 
 ### Authors
-Sameul Akwensivie <sakwensivie>
-Dennis Botwe  <dkb116>
+[Samuel Akwensivie](https://github.com/sakwensivie) and [Botwe Dennis Kweku](https://github.com/dkb116).
