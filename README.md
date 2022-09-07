@@ -28,8 +28,11 @@ You don’t have to handle any argument to the built-in exit
 
 ### 5. Simple shell 1.0
 Simple shell 0.4 +
-
 Implement the env built-in, that prints the current environment
+
+### 6.Simple shell 0.1.1
+Simple shell 0.1 +
+Writing a custom getline() function
 
 ### Authors
 [Samuel Akwensivie](https://github.com/sakwensivie) and [Botwe Dennis Kweku](https://github.com/dkb116).
